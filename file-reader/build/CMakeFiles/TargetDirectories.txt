@@ -1,4 +1,0 @@
-/home/zahid/jucipp/C-Tasks/file-reader/.git/build/CMakeFiles/oving1a.dir
-/home/zahid/jucipp/C-Tasks/file-reader/.git/build/CMakeFiles/oving1b.dir
-/home/zahid/jucipp/C-Tasks/file-reader/.git/build/CMakeFiles/edit_cache.dir
-/home/zahid/jucipp/C-Tasks/file-reader/.git/build/CMakeFiles/rebuild_cache.dir
