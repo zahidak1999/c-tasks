@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/zahid/jucipp/C-Tasks/oop-task/build",
+  "command": "/usr/bin/c++    -std=c++1y -Wall -Wextra -o CMakeFiles/solution3.dir/commodity.cpp.o -c /home/zahid/jucipp/C-Tasks/oop-task/commodity.cpp",
+  "file": "/home/zahid/jucipp/C-Tasks/oop-task/commodity.cpp"
+},
+{
+  "directory": "/home/zahid/jucipp/C-Tasks/oop-task/build",
+  "command": "/usr/bin/c++    -std=c++1y -Wall -Wextra -o CMakeFiles/solution3.dir/testklient.cpp.o -c /home/zahid/jucipp/C-Tasks/oop-task/testklient.cpp",
+  "file": "/home/zahid/jucipp/C-Tasks/oop-task/testklient.cpp"
+},
+{
+  "directory": "/home/zahid/jucipp/C-Tasks/oop-task/build",
+  "command": "/usr/bin/c++    -std=c++1y -Wall -Wextra -o CMakeFiles/solution3.1.dir/circle.cpp.o -c /home/zahid/jucipp/C-Tasks/oop-task/circle.cpp",
+  "file": "/home/zahid/jucipp/C-Tasks/oop-task/circle.cpp"
+},
+{
+  "directory": "/home/zahid/jucipp/C-Tasks/oop-task/build",
+  "command": "/usr/bin/c++    -std=c++1y -Wall -Wextra -o CMakeFiles/solution3.4.dir/oppgave4.cpp.o -c /home/zahid/jucipp/C-Tasks/oop-task/oppgave4.cpp",
+  "file": "/home/zahid/jucipp/C-Tasks/oop-task/oppgave4.cpp"
+}
+]

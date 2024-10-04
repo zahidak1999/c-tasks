@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "oop-task",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "solution3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-solution3-2bcddfeac48812bfc0c7.json",
+					"name" : "solution3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "solution3.1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-solution3.1-ffbd58fde8dfe7af2f36.json",
+					"name" : "solution3.1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "solution3.4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-solution3.4-e898d93d08dcb9240a5b.json",
+					"name" : "solution3.4",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/zahid/jucipp/C-Tasks/oop-task/build",
+		"source" : "/home/zahid/jucipp/C-Tasks/oop-task"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

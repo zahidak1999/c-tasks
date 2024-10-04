@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++1y -Wall -Wextra CMakeFiles/solution3.4.dir/oppgave4.cpp.o -o solution3.4 

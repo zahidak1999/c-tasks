@@ -1,0 +1,5 @@
+/home/zahid/jucipp/C-Tasks/oop-task/build/CMakeFiles/solution3.dir
+/home/zahid/jucipp/C-Tasks/oop-task/build/CMakeFiles/solution3.1.dir
+/home/zahid/jucipp/C-Tasks/oop-task/build/CMakeFiles/solution3.4.dir
+/home/zahid/jucipp/C-Tasks/oop-task/build/CMakeFiles/edit_cache.dir
+/home/zahid/jucipp/C-Tasks/oop-task/build/CMakeFiles/rebuild_cache.dir
