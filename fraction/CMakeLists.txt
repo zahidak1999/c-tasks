@@ -1,0 +1,8 @@
+cmake_minimum_required(VERSION 3.5)
+
+project(fraction)
+
+set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++1y -Wall -Wextra")
+
+#add_executable(fraction fractionmain.cpp fraction.cpp)
+add_executable(set setmain.cpp set.cpp)
